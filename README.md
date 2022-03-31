@@ -36,18 +36,19 @@ Then, clone the repository onto your local computer.
 ## Report and Findings
 
 
+![model_summary](Resources/model_summary.png)
 
 
+![original_plot](Resources/original_plot.png)
 
+![original_report](Resources/original_report.png)
 
 
 ![ada_plot](Resources/ada_plot.png)
 
 ![ada_report](Resources/ada_report.png)
 
-![original_plot](Resources/original_plot.png)
 
-![original_report](Resources/original_report.png)
 
 ![test1_plot_train_shift_6_months](Resources/test1_plot_train_shift_6_months.png)
 
